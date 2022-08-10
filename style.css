@@ -1,0 +1,262 @@
+body{
+    margin: 0;
+  background-color:#D3D3D3 ;
+}
+
+.texto3 {
+  font-size: 30pt;
+  text-decoration: #121212;
+  margin-left: 525px;
+}
+
+.btn2  {
+  font-size: 20pt;
+  margin-left: 550px;
+  margin-top: 50px;
+  font-weight: 700;
+  border:none;
+  padding: 10px;
+  cursor:pointer;
+background: 		#ff5c5c;
+box-shadow: 5px 5px 5px red;
+}
+
+.btn2:hover {
+  background: 	#ff1919;
+  box-shadow: 5px 5px 5px 	#FF0000;
+}
+
+.btn2:active{
+  position:relative;
+  top:5px;
+  box-shadow:none;
+}
+
+.btn  {
+  font-size: 20pt;
+  margin-left: 580px;
+  margin-top: 100px;
+  font-weight: 700;
+  border:none;
+  padding: 10px;
+  cursor:pointer;
+background:  #3333ff;
+box-shadow: 5px 5px 5px #0d0dff
+
+}
+
+.btn:hover {
+  background: #00CED1;
+  box-shadow: 5px 5px 5px #1E90FF;
+}
+
+.btn:active{
+  position:relative;
+  top:5px;
+  box-shadow:none;
+}
+
+.div1 {
+  width: 900px;
+  background-color:  white;
+  border-radius: 10px;
+  margin-top: 50px;
+  box-shadow: 5px 5px 5px grey;
+  height: 500px;
+  margin-left: 300px;
+}
+
+.topicon {
+  margin-top: 45px;
+  margin-left: 57px;
+  font-size: 20pt;
+  height: 100px;
+   width: 100px;
+}
+
+.jgicon {
+  margin-top: 45px;
+  margin-left: 57px;
+  font-size: 20pt;
+  height: 100px;
+   width: 100px;
+}
+
+.midicon {
+  margin-top: 45px;
+  margin-left: 57px;
+  font-size: 20pt;
+  height: 100px;
+   width: 100px;
+}
+
+.adcicon {
+  margin-top: 45px;
+  margin-left: 57px;
+  font-size: 20pt;
+  height: 100px;
+   width: 100px;
+}
+
+.supicon {
+  margin-top: 45px;
+  margin-left: 57px;
+  font-size: 20pt;
+  height: 100px;
+   width: 100px;
+}
+
+.texto1 {
+font-size: 50px;
+margin-left: 250px;
+}
+
+
+.texto2{
+font-size: 50px;
+margin-left: 250px;
+}
+
+.peppa {
+
+   height: 450px;
+   width: 450px;
+   margin-left: 400px;
+}
+
+
+
+.btntop {
+  border-radius: 5px;
+  font-size: 20pt;
+  border:none;
+  padding: 10px;
+  cursor:pointer;
+  background:  #b2b2b2;
+  margin-top: 10px;
+  margin-left: 70px;
+  box-shadow: 5px 5px 5px   #333333;
+}
+
+.btntop:hover {
+  background:  #999999;
+  box-shadow: 5px 5px 5px   #4d4d4d;
+}
+
+.btntop:active{
+  position:relative;
+  top:5px;
+  box-shadow:none;
+}
+
+.btnjg {
+  border-radius: 5px;
+  font-size: 20pt;
+  border:none;
+  padding: 10px;
+  cursor:pointer;
+  background:  #b2b2b2;
+  margin-top: 10px;
+  margin-left: 95px;
+  box-shadow: 5px 5px 5px   #333333;
+}
+
+.btnjg:hover {
+  background:  #999999;
+  box-shadow: 5px 5px 5px   #4d4d4d;
+}
+
+.btnjg:active{
+  position:relative;
+  top:5px;
+  box-shadow:none;
+}
+
+.btnmid {
+  border-radius: 5px;
+  font-size: 20pt;
+  border:none;
+  padding: 10px;
+  cursor:pointer;
+  background:  #b2b2b2;
+  margin-top: 10px;
+  margin-left: 95px;
+  box-shadow: 5px 5px 5px   #333333;
+}
+
+.btnmid:hover {
+  background:  #999999;
+  box-shadow: 5px 5px 5px   #4d4d4d;
+}
+
+.btnmid:active{
+  position:relative;
+  top:5px;
+  box-shadow:none;
+}
+
+.btnadc {
+  border-radius: 5px;
+  font-size: 20pt;
+  border:none;
+  padding: 10px;
+  cursor:pointer;
+  background:  #b2b2b2;
+  margin-top: 10px;
+  margin-left: 85px;
+  box-shadow: 5px 5px 5px   #333333;
+}
+
+.btnadc:hover {
+  background:  #999999;
+  box-shadow: 5px 5px 5px   #4d4d4d;
+}
+
+.btnadc:active{
+  position:relative;
+  top:5px;
+  box-shadow:none;
+}
+
+.btnsup {
+  border-radius: 5px;
+  font-size: 20pt;
+  border:none;
+  padding: 10px;
+  cursor:pointer;
+  background:  #b2b2b2;
+  margin-top: 50px;
+  margin-left: 80px;
+  box-shadow: 5px 5px 5px   #333333;
+}
+
+.btnsup:hover {
+  background:  #999999;
+  box-shadow: 5px 5px 5px   #4d4d4d;
+}
+
+.btnsup:active{
+  position:relative;
+  top:5px;
+  box-shadow:none;
+}
+
+.campeao1{
+  font-size: 30px;
+  margin-left: 100px;
+margin:20px;
+}
+
+.itens{
+
+margin: 50px 50px 50px 50px;
+
+
+
+}
+
+.frase3 {
+margin-left:10px;
+
+
+}
